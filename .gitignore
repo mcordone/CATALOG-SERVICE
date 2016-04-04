@@ -1,0 +1,5 @@
+.idea/**
+build/**
+logs/
+.gradle/2.5/
+.gradle/2.8/
